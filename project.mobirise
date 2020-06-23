@@ -1516,11 +1516,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><span style=\"font-style: normal;\">3月至4月，而随着疫情中心从境内转移至境外，外国网友对自然灾难片的关注也呈现明显上升。 \n<span style=\"font-size: 1.09rem;\">互联网电影资料库（IMBD）的最受欢迎电影榜里， 以电影《传染性》（Contagion，2011）为关键词进行搜索可以看到， <b>2020年1月初和3月初，该影片热度增加</b>；&nbsp;</span></span><span style=\"font-style: normal; font-size: 1.09rem;\">&nbsp;</span><span style=\"font-style: normal; font-size: 1.09rem;\">而3月以来热度增幅较大， 在<b>3月15日至20日前后达到峰值</b>，后有所回落。 &nbsp;</span></blockquote><blockquote><p><span style=\"font-size: 1.09rem; font-style: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;数据来源：谷歌搜索趋势</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s2HVHoqPga",
+          "_anchor": "content2-2q",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-2q"
+          "_params": {}
         },
         {
           "alias": false,
@@ -2661,6 +2661,7 @@
           "_name": "slider2",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Width\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"100\" inline>\n        <input type=\"range\" title=\"Height\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"430\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#c1c1c1\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
           "_cid": "s2HKijL9mF",
+          "_anchor": "slider2-2n",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -2770,8 +2771,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
               }
             ]
-          },
-          "_anchor": "slider2-2n"
+          }
         },
         {
           "alias": false,
@@ -2998,11 +2998,11 @@
           "_name": "content12",
           "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#e4d295\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><span style=\"font-size: 1rem;\"><b><i>加强信息发布管理。</i></b>信息化社会为疫情防控提供了良好的信息化基础设施。相关部门应充分利用现代信息技术，为疫情防控助力。一方面，<b>及时、准确、透明地发布疫情信息</b>，可避免因信息传递不畅造成公众的猜测与焦虑；另一方面，<b>加强网络发布信息的监督与管理</b>，不给造谣者可乘之机，防止谣言传播造成的公众恐慌。&nbsp;</span></li><li><span style=\"font-size: 1rem;\"><b><i>&nbsp;注重心理疏导。</i></b>在突发公共卫生事件冲击下，公众心理健康受到威胁，尤其是受疫情影响严重的地区。<b>相关机构可发布公众疫情期间心理应对指导手册，普及实用的心理调适方法。</b>医院可依据具体情况安排一线医护人员轮休，缓解其疲惫状态。<b>正念减压法</b>可提高个体对挫折的应对和适应能力，有效缓解焦虑情绪[1]。医院可运用<b>积极心理干预方法</b>对医护人员开展心理干预，提高其应对能力。<b>社会各界应对医护人员加强理解与支持</b>，减轻其无助与孤独感，与医护人员携手共渡难关。公众居家隔离防护期间，可通过关注积极信息帮助自身保持积极、乐观的心态。通过<b>适当宣泄</b>等方法缓解焦虑情绪；负性情绪严重无法自我调解时，<b>及时向专业人士寻求帮助</b>。&nbsp;</span><br></li><li><i><b>\n</b></i><span style=\"font-size: 1rem;\"><i><b>提升健康素养。</b></i>健康素养在公共卫生工作中具有重要价值[2]。相关部门可<b>在平时工作中重视公众健康素养提升</b>，做好传染病防护宣传工作，提高公众传染病防护意识与突发公共卫生事件应对能力。&nbsp;</span></li><li>[1] 黄菲.正念减压管理对感染科医护人员压力水平的干预作用[J].中医药管理杂志，2019，27（17）：107-108.\n</li><li>[2] 孙婷，孙铭薇，练婷玉，等.深圳市社区居民健康素养及其影响因素分析[J].中国社会医学杂志，2019，36（6）：626-629.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s2HDWZH3Rk",
+          "_anchor": "content12-2i",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content12-2i"
+          "_params": {}
         }
       ]
     }
